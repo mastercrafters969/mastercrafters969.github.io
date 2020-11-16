@@ -1,0 +1,68 @@
+body {
+  background: #112732;
+}
+
+.brand-image {
+  height: 50px;
+}
+
+.navbar-mc {
+  background-color: #fd9518;
+}
+
+.jumbotron-mc {
+  background-color: #111;
+  color: #fff;
+}
+
+.section {
+  color: #fff;
+  padding: 5rem 0;
+}
+
+.about-2 {
+  background-color: #0d7d65;
+}
+
+.feat .title {
+  text-align: center;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.section .title {
+  margin-bottom: 3rem;
+  text-transform: capitalize;
+  font-variant: small-caps;
+}
+
+.section p {
+  font-size: 1.25rem;
+}
+
+.bottom-master-image {
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  border: solid 4px #ebb102;
+  box-shadow: 0px 0px 8px 5px rgba(0, 0, 0, 0.3);
+}
+
+.bottom-box {
+  background: #fff;
+  color: black;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 20px;
+}
+.bottom-box .title {
+  color: #283d7d;
+  margin-bottom: 24px;
+}
+.contact-sec {
+  display: flex;
+  margin-bottom: 5px;
+}
